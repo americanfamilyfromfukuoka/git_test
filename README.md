@@ -1,3 +1,3 @@
 # git_test
 my first github repo!
-hello sonny!
+hello hiromi
